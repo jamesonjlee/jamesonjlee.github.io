@@ -1,0 +1,2 @@
+generate:
+hugo --theme=hugo-multi-bootswatch
