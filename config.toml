@@ -1,5 +1,5 @@
 baseurl     = "https://jamesonjlee.github.io"  # the baseurl for your website
-title       = "Fancy Site Title"     # blog title
+title       = "Jameson's 2016 Blog"     # blog title
 paginate    = 10                    # the number of posts on a page
 theme       = "hugo-multi-bootswatch"
 config =                     "config.toml"
