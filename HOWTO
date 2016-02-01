@@ -1,2 +1,10 @@
+the themese has been modified to include an about page
+
 generate:
 hugo --theme=hugo-multi-bootswatch
+
+make-new-post:
+hugo new post/<name>
+
+push:
+bash deploy.sh
