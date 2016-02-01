@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jameson&#39;s 2016 Blog</title>
-    <link>https://jamesonjlee.github.io/</link>
-    <description>Recent content on Jameson&#39;s 2016 Blog</description>
+    <title>Books on Jameson&#39;s 2016 Blog</title>
+    <link>https://jamesonjlee.github.io/categories/books/</link>
+    <description>Recent content in Books on Jameson&#39;s 2016 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>jamesonjlee at gmail (Jameson Lee)</managingEditor>
     <webMaster>jamesonjlee at gmail (Jameson Lee)</webMaster>
     <lastBuildDate>Sun, 31 Jan 2016 18:40:01 -0800</lastBuildDate>
-    <atom:link href="https://jamesonjlee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jamesonjlee.github.io/categories/books/index.xml" rel="self" type="application/rss+xml" />
     
       
         
@@ -35,8 +35,6 @@
 </description>
           </item>
         
-      
-    
       
     
   </channel>

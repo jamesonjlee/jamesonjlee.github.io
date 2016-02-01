@@ -7,18 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>jamesonjlee at gmail (Jameson Lee)</managingEditor>
     <webMaster>jamesonjlee at gmail (Jameson Lee)</webMaster>
-    <lastBuildDate>Sun, 24 Jan 2016 21:35:45 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2016 18:40:01 -0800</lastBuildDate>
     <atom:link href="https://jamesonjlee.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
       
         
           <item>
-            <title>hello</title>
-            <link>https://jamesonjlee.github.io/blog/2016/01/24/hello/</link>
-            <pubDate>Sun, 24 Jan 2016 21:35:45 -0800</pubDate>
+            <title>Introduction</title>
+            <link>https://jamesonjlee.github.io/blog/2016/01/31/introduction/</link>
+            <pubDate>Sun, 31 Jan 2016 18:40:01 -0800</pubDate>
             <author>jamesonjlee at gmail (Jameson Lee)</author>
-            <guid>https://jamesonjlee.github.io/blog/2016/01/24/hello/</guid>
-            <description>&lt;p&gt;Content of the file goes here?&lt;/p&gt;
+            <guid>https://jamesonjlee.github.io/blog/2016/01/31/introduction/</guid>
+            <description>&lt;p&gt;This is an introduction page.  It introduces things.&lt;/p&gt;
+
+&lt;p&gt;Through this blog, I will attempt to cover, the four fundamental requirements of being a &amp;ldquo;good&amp;rdquo; engineer.  I will also cover books that may be helpful in unerstanding why those requirements are fundamental.  This blog will also cover random posts about how I feel about books I am reading through the year.&lt;/p&gt;
+
+&lt;p&gt;The four &lt;em&gt;fundamental&lt;/em&gt; requirements of being a &amp;ldquo;good&amp;rdquo; engineering are as follows (in no particular order):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intelligence&lt;/li&gt;
+&lt;li&gt;Passion&lt;/li&gt;
+&lt;li&gt;Tenacity&lt;/li&gt;
+&lt;li&gt;Empathy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One post per month probably.&lt;/p&gt;
 </description>
           </item>
         
